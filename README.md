@@ -207,9 +207,12 @@ else:
 
 ## OUTPUT:
 
-<img width="798" height="380" alt="image" src="https://github.com/user-attachments/assets/18476009-411e-4bb8-a206-7aeb4ea82806" />
+<img width="572" height="421" alt="image" src="https://github.com/user-attachments/assets/5c687c9e-f2e0-4c4b-8f3c-ebb80e1a1187" />
 
-<img width="763" height="641" alt="image" src="https://github.com/user-attachments/assets/162fc922-1985-45d9-acba-7ab6b59554ac" />
+<img width="640" height="504" alt="image" src="https://github.com/user-attachments/assets/77837791-f1ad-4967-88d1-d2f788f63c21" />
+
+<img width="795" height="597" alt="image" src="https://github.com/user-attachments/assets/55954dd9-5531-4ba4-b700-560720578ee4" />
+
 
 ## RESULT:
 
